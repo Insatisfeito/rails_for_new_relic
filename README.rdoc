@@ -1,0 +1,3 @@
+Rails for New Relic
+
+This app is ready for deployment on Heroku with New Relic's gem. Just upload your newrelic.yml to config directory and deploy the app.
